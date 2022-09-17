@@ -1,0 +1,8 @@
+.container {
+	width: 100%;
+}
+
+.container img {
+	width: 500px;
+	display: block;
+}

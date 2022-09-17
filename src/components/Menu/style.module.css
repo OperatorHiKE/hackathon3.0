@@ -1,0 +1,33 @@
+.menu {
+	width: 100%;
+	height: auto;
+}
+
+span {
+	display: inline-block;
+}
+
+.itemContainer {
+	margin: 0 auto;
+}
+
+.item {
+	-webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+	box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.item img {
+	width: 300px;
+	height: 300px;
+	object-fit: scale-down;
+}
+
+.item h2 {
+	display: flex;
+	height: 35px;
+}
+
+.name {
+	font-size: 24px;
+}
