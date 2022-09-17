@@ -1,0 +1,3 @@
+git remote add origin https://github.com/OperatorHiKE/hackathon3.0.git
+git branch -M main
+git push -u origin main

@@ -1,0 +1,8 @@
+{
+  "name": "hackaton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OperatorHiKE/hackathon3.0.git",
+  "author": "ALDIK <cjube1337@gmail.com>",
+  "license": "MIT"
+}
